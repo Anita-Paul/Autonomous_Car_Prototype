@@ -26,3 +26,6 @@ system. This backdrop encourages us to contribute to the study and development o
 novel and resilient Convolutional Neural Network-based algorithms that will replace
 current computer vision approaches in autonomous vehicle perception systems.
 
+Udacity's Self-Driving Car Simulator
+https://github.com/udacity/self-driving-car-sim
+https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5831f3a4_simulator-windows-64/simulator-windows-64.zip

@@ -26,9 +26,3 @@ system. This backdrop encourages us to contribute to the study and development o
 novel and resilient Convolutional Neural Network-based algorithms that will replace
 current computer vision approaches in autonomous vehicle perception systems.
 
-The main objective: -
-Document and develop an autonomous car prototype using edge devices like jetson
-nano, Xavier and ROS Problem: Autonomous car is an automated or autonomous
-vehicle capable of fulfilling the main transportation capabilities of a traditional car
-without human input. Autonomous vehicles are capable to reduce crashes, pollution,
-reduce crashes and costs of congestio
